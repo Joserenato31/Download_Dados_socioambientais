@@ -3,6 +3,8 @@ Download automático dos dados utilizados
 
 bibliotecas:
 
-pip install schedule
-pip install requests
-import time
+ pip install schedule
+
+ pip install requests
+
+ import time
